@@ -34,6 +34,8 @@ public class main {
             }
 
 
+            System.out.println(pupils.get(0));
+
             for (Schoolboy pupil:pupils){
                 if (pupil.isScholarship())
                     System.out.println(pupil);
