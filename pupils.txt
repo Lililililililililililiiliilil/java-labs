@@ -1,0 +1,10 @@
+Ivan 18 5 5 1 1
+Vsevolod 14 5 4 5 3
+Inna 15 4 5 2 6
+Evgenii 16 4 3 6 0
+Irina 17 5 5 0 1
+Daria 18 3 3 5 0
+Ekaterina 11 2 3 4 7
+Nikita 16 2 2 0 0
+Yana 15 5 4 3 1
+Ksenia 11 5 5 1 1
