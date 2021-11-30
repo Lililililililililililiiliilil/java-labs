@@ -35,6 +35,7 @@ public class main {
 
 
             System.out.println(pupils.get(0));
+            System.out.println(pupils.get(0));
 
 
             for (Schoolboy pupil:pupils){
